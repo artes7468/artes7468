@@ -1,4 +1,6 @@
-body{ background:red;
-     display: inline-flex;
-     
+body {
+  background: red;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
 }
